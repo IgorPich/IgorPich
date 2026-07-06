@@ -45,7 +45,7 @@ When I'm not designing sleek UIs, you'll catch me speedcubing, working out at th
 
 ### Contact me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-pich/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/urziemska/)
 ---
 
 ### Big thank you for those creators!
