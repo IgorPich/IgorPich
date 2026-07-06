@@ -1,6 +1,6 @@
 <span align="center" width="300px">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:eeaeca,100:95bbe9&text=Hi!%20I'm%20[Twoje%20Imię]&section=header&textBg=false&fontColor=fff" alt="Waving Text">
-  <img src="[LINK_DO_TWOJEGO_ZDJĘCIA_LUB_AWATARA]" alt="Profile Image" align="right" width="250px" style="margin-left: 120vh;"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:eeaeca,100:95bbe9&text=Hi!%20I'm%20Igor&section=header&textBg=false&fontColor=fff" alt="Waving Text">
+  <img src="https://github.com/igorpich.png" alt="Profile Image" align="right" width="250px" style="margin-left: 120vh; border-radius: 50%;"/>
   
 ### 📝📝📝
 Engineering student wrapping up my degree in Management and IT Infrastructure.
@@ -14,9 +14,9 @@ When I'm not building minimalist, glassmorphism-heavy UIs, you'll find me speedc
   <br clear="left"/>
   
 &nbsp;
-  ![](https://komarev.com/ghpvc/?username=[TWOJ_GITHUB_USERNAME]&base=100&abbreviated=true&color=ff69b4&label=Have+checked+me+out!&style=flat-square)
+  ![](https://komarev.com/ghpvc/?username=igorpich&base=100&abbreviated=true&color=ff69b4&label=Have+checked+me+out!&style=flat-square)
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=[TWOJ_GITHUB_USERNAME]&theme=shadow-purple&hide_border=true&card_width=650&background=FFFFFF&currStreakNum=444444&sideNums=7A7A7A&fire=FF69B4&currStreakLabel=B22F6A&ring=FF69B4AD&sideLabels=B22F6A&stroke=444444)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=igorpich&theme=shadow-purple&hide_border=true&card_width=650&background=FFFFFF&currStreakNum=444444&sideNums=7A7A7A&fire=FF69B4&currStreakLabel=B22F6A&ring=FF69B4AD&sideLabels=B22F6A&stroke=444444)](https://git.io/streak-stats)
     
 
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ɪ'ᴍ ɪɴᴛᴇʀᴇꜱᴛᴇᴅ ɪɴ: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
@@ -45,7 +45,7 @@ When I'm not building minimalist, glassmorphism-heavy UIs, you'll find me speedc
 ---
 
 ### Contact me!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([LINK_DO_TWOJEGO_LINKEDINA])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/igorpich)
 
 ---
 
