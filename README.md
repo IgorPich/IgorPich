@@ -9,8 +9,7 @@ Engineering student wrapping up my degree in Management and IT Infrastructure.
 Fluent in Polish and English, and currently brushing up on my French (B1/B2)!
 
 ### 💻🏋️‍♂️🏎️
-When I'm not building minimalist, glassmorphism-heavy UIs, you'll find me speedcubing, hitting the gym for high-intensity back days (chasing that V-taper!), or browsing for sports coupes.
-
+When I'm not designing sleek UIs, you'll catch me speedcubing, working out at the gym and swimming.
   <br clear="left"/>
   
 &nbsp;
