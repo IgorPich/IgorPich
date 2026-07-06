@@ -1,29 +1,29 @@
 <span align="center" width="300px">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:eeaeca,100:95bbe9&text=Hi!%20I'm%20Ruthie&section=header&textBg=false&fontColor=fff" alt="Waving Text">
-  <img src="https://i.ibb.co/SXCkm4K/image.jpg" alt="Description of the image" align="right" width="250px" style="margin-left: 120vh;"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:eeaeca,100:95bbe9&text=Hi!%20I'm%20[Twoje%20Imię]&section=header&textBg=false&fontColor=fff" alt="Waving Text">
+  <img src="[LINK_DO_TWOJEGO_ZDJĘCIA_LUB_AWATARA]" alt="Profile Image" align="right" width="250px" style="margin-left: 120vh;"/>
   
 ### 📝📝📝
-Studying both Management and Computer Engineering. 
+Engineering student wrapping up my degree in Management and IT Infrastructure.
 
-### 🇵🇱🇩🇪🇬🇧
-In love with learning languages and travelling.
+### 🇵🇱🇬🇧🇫🇷
+Fluent in Polish and English, and currently brushing up on my French (B1/B2)!
 
-### 💻💡💭
-Can't stop at one thing, so you can find ✨ everything ✨ here!
+### 💻🏋️‍♂️🏎️
+When I'm not building minimalist, glassmorphism-heavy UIs, you'll find me speedcubing, hitting the gym for high-intensity back days (chasing that V-taper!), or browsing for sports coupes.
 
   <br clear="left"/>
   
 &nbsp;
-  ![](https://komarev.com/ghpvc/?username=Ruthietta&base=100&abbreviated=true&color=ff69b4&label=Have+checked+me+out!&style=flat-square)
+  ![](https://komarev.com/ghpvc/?username=[TWOJ_GITHUB_USERNAME]&base=100&abbreviated=true&color=ff69b4&label=Have+checked+me+out!&style=flat-square)
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Ruthietta&theme=shadow-purple&hide_border=true&card_width=650&background=FFFFFF&currStreakNum=444444&sideNums=7A7A7A&fire=FF69B4&currStreakLabel=B22F6A&ring=FF69B4AD&sideLabels=B22F6A&stroke=444444)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=[TWOJ_GITHUB_USERNAME]&theme=shadow-purple&hide_border=true&card_width=650&background=FFFFFF&currStreakNum=444444&sideNums=7A7A7A&fire=FF69B4&currStreakLabel=B22F6A&ring=FF69B4AD&sideLabels=B22F6A&stroke=444444)](https://git.io/streak-stats)
     
 
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ɪ'ᴍ ɪɴᴛᴇʀᴇꜱᴛᴇᴅ ɪɴ: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 |--------------------|-------------------------------------------------------------------------------------------------------|
-|    Web development |[![Icons](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,wordpress)](https://skillicons.dev)  |
-|    App development | [![Icons](https://skillicons.dev/icons?i=cpp,cs,dotnet,python,java)](https://skillicons.dev)          |
-|     Pretty things! | [![Icons](https://skillicons.dev/icons?i=ae,ps,pr,figma)](https://skillicons.dev)                     |
+|    Web development |[![Icons](https://skillicons.dev/icons?i=angular,ts,js,html,css)](https://skillicons.dev)  |
+|    App development | [![Icons](https://skillicons.dev/icons?i=cs,dotnet,electron,tauri)](https://skillicons.dev)           |
+| UI / UX / Design   | [![Icons](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)                    |
 
 
 
@@ -36,16 +36,16 @@ Can't stop at one thing, so you can find ✨ everything ✨ here!
 
 <span align="left">
   
-- [ ] Algorithm wiki repository
-- [ ] Pursuing both of my degrees
-- [x] Creating this profile readme!
+- [ ] **InfraManager** - IT infrastructure monitoring system (featuring advanced keyword-extraction search) for Orange Polska S.A.
+- [ ] **ATENA** - Browser shell migration from Tauri to Electron preserving a complex Angular UI.
+- [ ] **Midnight Radio** - Virtual AI radio station dashboard featuring real-time audio visualizers and a minimalist aesthetic.
 
 </span>
 
 ---
 
 ### Contact me!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/urziemska/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([LINK_DO_TWOJEGO_LINKEDINA])
 
 ---
 
